@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rail-1",
+    "kind": "contractor",
+    "lang": "zh",
+    "text": "北段 K17 信号箱进水，已更换接线端子，待现场复核。"
+  },
+  {
+    "id": "rail-2",
+    "kind": "dispatch",
+    "lang": "zh",
+    "text": "K17 区间临时限速保持，收到调度确认后方可解除。"
+  },
+  {
+    "id": "rail-3",
+    "kind": "field_check",
+    "lang": "en",
+    "text": "Box K17 dry after inspection; control approval is still pending."
+  },
+  {
+    "id": "rail-4",
+    "kind": "contractor",
+    "lang": "mixed",
+    "text": "K-17 接点已换，线路还没收到解除命令。"
+  }
+]
