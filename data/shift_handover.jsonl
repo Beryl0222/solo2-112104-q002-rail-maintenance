@@ -1,0 +1,8 @@
+{"id": "SH-003", "kind": "contractor", "lang": "mixed", "recorded_at": "2026-11-20T15:20:00", "author": "承包商甲", "text": "K17 box replaced, 试验合格。K17区间修好了，可以申请恢复常速。"}
+{"id": "SH-001", "kind": "contractor", "lang": "zh", "recorded_at": "2026-11-20T07:50:00", "author": "承包商甲", "text": "交班：北段K17信号箱夜间进水，端子受潮，已报缺陷。"}
+{"id": "SH-005", "kind": "dispatch", "lang": "zh", "recorded_at": "2026-11-21T18:05:00", "author": "调度", "notice_id": "调字〔2026〕121号", "text": "调字〔2026〕121号：解除调字〔2026〕118号对K17区间的临时限速。"}
+{"id": "SH-002", "kind": "dispatch", "lang": "zh", "recorded_at": "2026-11-20T09:00:00", "author": "调度", "notice_id": "调字〔2026〕118号", "text": "调字〔2026〕118号：因K17信号箱进水缺陷，K17区间临时限速，待复核合格后另行解除。"}
+{"id": "SH-004", "kind": "field_check", "lang": "zh", "recorded_at": "2026-11-21T10:00:00", "author": "运维班", "text": "现场复核：K17信号箱更换后复测正常，具备运行条件。"}
+{"id": "SH-007", "kind": "field_check", "lang": "zh", "recorded_at": "2026-11-21T16:40:00", "author": "运维班", "text": "现场核对：前日交班所称南二段继电器箱，实际位于K30区间。"}
+{"id": "SH-006", "kind": "contractor", "lang": "zh", "recorded_at": "2026-11-19T08:10:00", "author": "承包商乙", "text": "南二段继电器箱进水，已更换受潮端子。"}
+{"id": "SH-008", "kind": "contractor", "lang": "mixed", "recorded_at": "2026-11-21T09:30:00", "author": "承包商乙", "text": "DC-5 转换器卡阻，已检查完成。"}
